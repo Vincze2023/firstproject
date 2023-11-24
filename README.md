@@ -1,0 +1,2 @@
+# firstproject
+Órai feladat
